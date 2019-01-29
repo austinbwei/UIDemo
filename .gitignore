@@ -1,7 +1,11 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+UIDemo/Content/StarterContent/
+
 .vscode
 .vs
 *.VC.db
